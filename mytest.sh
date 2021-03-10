@@ -1,3 +1,3 @@
-echi "this is test dta"
+echo "this is test dta"
 cal
 date
