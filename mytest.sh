@@ -1,4 +1,4 @@
-echo "shravan tandale"
+echo "shravan Digambar tandale"
 cal
 date
 echo "byee"
